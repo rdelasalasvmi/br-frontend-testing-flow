@@ -1,6 +1,6 @@
 {
-  "name": "br-frontend-testing-flow",
-  "root": "dist",
+  "name": "br-frontend-testing-ron",
+  "root": "./",
   "clean_urls": true,
   "error_page": "error.html"
 }
