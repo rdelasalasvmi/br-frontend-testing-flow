@@ -1,5 +1,6 @@
 var App = function() {
   this.start = function() {
+    console.log("Testing Yay!");
     clearClassification();
   };
 
